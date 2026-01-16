@@ -1,0 +1,40 @@
+{
+  "name": "maker_enzoversion",
+  "description": "the project is developer by gp.dark || https://discord.gg/g-p",
+  "version": "1.0",
+  "author": "gp.dark",
+  "license": "ISC",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^2.4.0",
+    "@discordjs/voice": "^0.17.0",
+    "archiver": "^7.0.1",
+    "ascii-table": "^0.0.9",
+    "axios": "^1.7.9",
+    "canvas": "^2.11.2",
+    "cloudscraper": "^4.6.0",
+    "colors": "^1.4.0",
+    "discord-html-transcripts": "^3.2.0",
+    "discord.js": "^14.16.3",
+    "distube": "^5.0.2",
+    "ffmpeg-static": "^5.2.0",
+    "humanize-duration": "^3.32.1",
+    "is-image-header": "^3.0.4",
+    "javascript-obfuscator": "^4.1.1",
+    "keep-alive": "^0.1.0",
+    "libsodium-wrappers": "^0.8.0",
+    "moment": "^2.30.1",
+    "moment-timezone": "^0.5.46",
+    "mongoose": "^8.9.3",
+    "ms": "^2.1.3",
+    "node-fetch": "^3.3.2",
+    "pretty-seconds": "^3.0.1",
+    "st.db": "^6.0.1",
+    "ytdl-core": "^4.11.5"
+  },
+  "engines": {
+    "node": ">=18.0.0 <=23.0.0"
+  }
+}

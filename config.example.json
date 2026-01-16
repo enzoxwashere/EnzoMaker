@@ -1,0 +1,21 @@
+{
+    "token": "YOUR_BOT_TOKEN_HERE",
+    "prefix": "!",
+    "owner": [
+        "YOUR_DISCORD_USER_ID_HERE"
+    ],
+    "mainguild": "YOUR_MAIN_GUILD_ID_HERE",
+    "voiceRoomID": "VOICE_CHANNEL_ID_HERE",
+    "commandsRoom": "COMMANDS_CHANNEL_ID_HERE",
+    "updatesRoom": "UPDATES_CHANNEL_ID_HERE",
+    "ملاحظة": "  تقدر تخليهم كلهم نفس الويب هوك",
+    "WEBHOOK_URL": "YOUR_GENERAL_LOGS_WEBHOOK_URL_HERE",
+    "updatesRoomWebhookUrl": "YOUR_GENERAL_LOGS_WEBHOOK_URL_HERE",
+    "purchaseWebhookUrl": "YOUR_GENERAL_LOGS_WEBHOOK_URL_HERE",
+    "joinLeaveWebhookUrl": "YOUR_GENERAL_LOGS_WEBHOOK_URL_HERE",
+    "buyTokenLogsWebhookUrl": "YOUR_GENERAL_LOGS_WEBHOOK_URL_HERE",
+    "reportLogsWebhookUrl": "YOUR_GENERAL_LOGS_WEBHOOK_URL_HERE",
+    "suggestionsLogsWebhookUrl": "YOUR_GENERAL_LOGS_WEBHOOK_URL_HERE",
+    "subsLogsWebhookUrl": "YOUR_GENERAL_LOGS_WEBHOOK_URL_HERE",
+    "makerSubsLogsWebhookUrl": "YOUR_GENERAL_LOGS_WEBHOOK_URL_HERE"
+}
