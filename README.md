@@ -1,118 +1,110 @@
 <div align="center">
 
-# 🚀 Enzo Maker & Manager 🤖
-### The Ultimate Discord Bot Ecosystem
+#  Enzo Maker & Manager
+### 🚀 The Future of Discord Bot Management
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/Node.js-18.x-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
-[![Discord.js](https://img.shields.io/badge/Discord.js-v14-blue?style=for-the-badge&logo=discord)](https://discord.js.org/)
-[![Database](https://img.shields.io/badge/Database-SQLite%20(st.db)-lightgrey?style=for-the-badge&logo=sqlite)](https://www.npmjs.com/package/st.db)
-[![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)](LICENSE)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Enzo%20Maker&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Advanced%20Bot%20System&descAlignY=55&descAlign=50)
 
-______________________________________________________________________
+<br>
 
-**[🇸🇦 العربية](#-المميزات--features) | [🇺🇸 English](#-english-overview)**
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.js.org/)
+[![Database](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
 </div>
 
 ---
 
-## 🌟 لماذا Enzo Maker؟ | Why Enzo Maker?
+## 🌟 لماذا تختار Enzo Maker؟
 
-يعد **Enzo Maker** الحل الأمثل لإنشاء وإدارة إمبراطورية البوتات الخاصة بك على Discord. تم تصميمه بعناية فائقة ليوفر **السرعة**، **الثبات**، و **سهولة الاستخدام**.
+في عالم مليء بالبوتات التقليدية، يأتي **Enzo Maker** ليغير قواعد اللعبة. نظام متكامل تم بناؤه من الصفر ليوفر لك تجربة إدارة سلسة، سريعة، ومحمية بالكامل.
 
-> **"لا مجرد بوت، بل نظام إدارة متكامل."**
+> 💡 **"نحن لا نصنع البوتات فقط، نحن نصنع المستقبل."**
 
 ---
 
-## ✨ المميزات الحصرية | Exclusive Features
+## 💎 المميزات الحصرية
 
 <div align="center">
 
-| 💎 الميزة | 📝 الوصف |
-|:---:|:---|
-| **🏭 مصنع البوتات** | إنشاء وإدارة أكثر من **25 نوع** من البوتات بضغطة زر. |
-| **💰 نظام المدفوعات** | تكامل كامل مع **Credits**، تحويل تلقائي، وحساب ضرائب دقيق. |
-| **🔒 حماية قصوى** | نظام **Anti-Crash** متطور، حماية من السبام، ونسخ احتياطي تلقائي. |
-| **🔊 نظام صوتي 24/7** | ابقَ في الروم الصوتي دائماً مع نظام **Auto-Reconnect** الذكي. |
-| **🎛️ لوحة تحكم** | تحكم كامل عبر أزرار وقوائم تفاعلية (Interaction Based). |
-| **📊 قاعدة بيانات** | استخدام `st.db` لسرعة خيالية وعدم الحاجة لقواعد بيانات خارجية. |
+| � الأداء والسرعة | 🛡️ الحماية والأمان | � الاقتصاد والمال |
+|:---|:---|:---|
+| قاعدة بيانات `st.db` فائقة السرعة | حماية متقدمة من السبام (Anti-Spam) | نظام دفع تلقائي (Auto-Payment) |
+| استجابة فورية للأوامر | نسخ احتياطي تلقائي (Auto-Backup) | دعم تحويل Credits و ProBot |
+| اتصال صوتي مستقر 24/7 | نظام التحقق من الاحتيال (Scammers) | متجر تلقائي (Auto-Shop) |
 
 </div>
 
 ---
 
-## � التثبيت والتشغيل | Installation
+## 📥 التثبيت في 3 خطوات
 
-### 1️⃣ المتطلبات
-*   Node.js v16+
-*   اتصال إنترنت مستقر
+<div align="left">
 
-### 2️⃣ التحميل
+**1️⃣ تحميل المشروع**
 ```bash
 git clone https://github.com/Enzo/EnzoMaker.git
 cd EnzoMaker
 ```
 
-### 3️⃣ تثبيت المكاتب
+**2️⃣ تثبيت المكاتب**
 ```bash
 npm install
-npm install libsodium-wrappers  # مهم للصوت
+npm install libsodium-wrappers
 ```
 
-### 4️⃣ الإعداد (`config.json`)
-قم بنسخ `config.example.json` إلى `config.json` واملأ البيانات:
-```json
-{
-  "token": "YOUR_SUPER_SECRET_TOKEN",
-  "owner": ["YOUR_ID"],
-  "mainguild": "SERVER_ID",
-  "voiceRoomID": "VOICE_CHANNEL_ID"
-}
-```
-
-### 5️⃣ التشغيل 🚀
+**3️⃣ التشغيل**
 ```bash
 node index.js
 ```
 
+</div>
+
 ---
 
-## 🤖 قائمة البوتات | Bot Types
+## 🤖 ترسانة البوتات
 
 <details>
-<summary><b>اضغط لعرض القائمة الكاملة للبوتات المدعومة</b></summary>
-
+<summary><b>🔥 اضغط هنا لاستعراض قائمة البوتات (25+)</b></summary>
 <br>
 
-| 🟢 الخدمات | 🔴 الإدارة | 🔵 الترفيه |
-|:---|:---|:---|
-| 🛒 **Shop** (بيع حسابات) | 🛡️ **System** (حماية وإدارة) | 🎉 **Giveaway** (سحوبات) |
-| 🎫 **Ticket** (دعم فني) | 📢 **Brodcast** (نشر) | 🕋 **Quran** (قرآن الكريم) |
-| 💱 **Tax** (ضرائب) | 📝 **Log** (سجلات) | 📿 **Azkar** (أذكار) |
-| 🔍 **Scammers** (فحص) | 🚫 **Blacklist** (قائمة سوداء) | 💭 **Suggestions** (اقتراحات) |
-| ⭐ **Feedback** (آراء) | 🤖 **One4All** (شامل) | 📸 **Avatar** (صور) |
+<div align="center">
 
+| النوع | الوصف | الحالة |
+|:---:|:---:|:---:|
+| 🛡️ **System** | إدارة السيرفر (Kick, Ban, Mute, Clear) | ✅ |
+| 🎫 **Ticket** | نظام تذاكر دعم فني متطور مع أزرار | ✅ |
+| � **Shop** | بيع حسابات وتلقائي بالكامل | ✅ |
+| � **Broadcast** | نشر رسائل (BC) لجميع الأعضاء | ✅ |
+| 🎁 **Giveaway** | سحوبات تلقائية مع مؤقت | ✅ |
+| 💭 **Suggestions** | نظام اقتراحات مع تصويت | ✅ |
+| ⭐ **Feedback** | نظام آراء العملاء | ✅ |
+| 💱 **Tax** | حاسبة ضرائب بروبوت دقيقة | ✅ |
+| 🕋 **Quran** | إذاعة القرآن الكريم 24/7 | ✅ |
+| � **Blacklist** | نظام القائمة السوداء للمخالفين | ✅ |
+
+</div>
 </details>
 
 ---
 
-## 📞 الدعم والتواصل | Support
+## 📞 الدعم الفني
 
-اذا واجهت أي مشكلة أو لديك استفسار، لا تتردد في التواصل معنا:
+نحن هنا لمساعدتك! انضم لمجتمعنا للحصول على الدعم الفوري واخر التحديثات.
 
-*   **Discord Server:** [Server Link](https://discord.gg/sBS2PDAdpP)
-*   **Developer:** Enzo (`1183414779222696016`)
+<a href="https://discord.gg/sBS2PDAdpP">
+  <img src="https://invidget.switchblade.xyz/sBS2PDAdpP" alt="Discord Server">
+</a>
 
 ---
 
 <div align="center">
 
-### Built with ❤️ & ☕ by [Enzo]
+### Developed with passion by **Enzo** ❤️
 
-**© 2026 Enzo Maker. All Rights Reserved.**
-Do not distribute without permission.
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+**© 2026 All Rights Reserved**
 
 </div>
