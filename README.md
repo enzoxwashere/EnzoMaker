@@ -92,16 +92,17 @@ node index.js
 ## 📞 الدعم الفني
 
 نحن هنا لمساعدتك! انضم لمجتمعنا للحصول على الدعم الفوري واخر التحديثات.
-
+<div align="center">
 <a href="https://discord.gg/sBS2PDAdpP">
   <img src="https://invidget.switchblade.xyz/sBS2PDAdpP" alt="Discord Server">
 </a>
+</div>
 
 ---
 
 <div align="center">
 
-### Developed with passion by **Enzo** ❤️
+### Developed with A lot of Coffe by **Enzo** 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn)
 
