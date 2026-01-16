@@ -3,8 +3,6 @@
 # 🚀 Enzo Maker & Manager 🤖
 ### The Ultimate Discord Bot Ecosystem
 
-![Banner](https://img.icons8.com/external-flaticons-flat-flat-icons/256/external-robot-technology-flaticons-flat-flat-icons-2.png)
-
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-green?style=for-the-badge&logo=node.js)](https://nodejs.org/)
 [![Discord.js](https://img.shields.io/badge/Discord.js-v14-blue?style=for-the-badge&logo=discord)](https://discord.js.org/)
@@ -103,7 +101,7 @@ node index.js
 
 اذا واجهت أي مشكلة أو لديك استفسار، لا تتردد في التواصل معنا:
 
-*   **Discord Server:** [Server Link Here](https://discord.gg/Enzo)
+*   **Discord Server:** [Server Link](https://discord.gg/sBS2PDAdpP)
 *   **Developer:** Enzo (`1183414779222696016`)
 
 ---
