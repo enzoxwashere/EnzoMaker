@@ -102,7 +102,7 @@ node index.js
 
 <div align="center">
 
-### Developed with A lot of Coffe by **Enzo** 
+### Developed with A lot of Coffee by **Enzo** 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn)
 
